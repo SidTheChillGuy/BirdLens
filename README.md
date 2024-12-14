@@ -17,7 +17,7 @@ An ensemble of these models is also prepared, which far outperforms these models
 
 # Extras
 * Wikipedia Integration: The classification output is sent to Wikipedia module and a short summary is displayed
-![Example Shot of Wikipedia Integration]()
+![Example Shot of Wikipedia Integration](https://github.com/SidTheChillGuy/BirdLens/blob/main/src/Wiki_integration)
 
 # Future Works
 * Text to Voice for Wikipedia output
