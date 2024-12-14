@@ -3,6 +3,8 @@ A deep learning models and Ensemble model project for identifying Indian Birds.
 
 [Dataset Kaggle Link](https://www.kaggle.com/datasets/ichhadhari/indian-birds)
 
+## If using the Python Notebooks, please edit the name of the paths of Datasets and models/pkl files to match your filesystem paths.
+
 BirdLens is a project which I made along with a group of 3.
 In this project, we explored the feasibility of using deep learning models and fine tuning them forusage with our datasets.
 
